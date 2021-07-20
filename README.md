@@ -1,14 +1,20 @@
 # My portfolio
 
-Welcome to my portfolio . It's coming up tommorow when I learn HTML and CSS .
+Welcome to my portfolio .
 
 For Now I Know :
 
-1.Java Script
+1.HTML
 
-2.Nodejs
+2.CSS
 
-3.Repl.it
+3.Java Script
+
+4.Nodejs
+
+5.Repl.it
+
+Quiz 
 
 how much your friends knows you:
 
